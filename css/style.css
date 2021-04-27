@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+section{
+    background-color: chartreuse;
+    border: crimson 10px solid;
+}
+h2{
+    color: darkblue;
+    font-size: 40pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    background-color: darkcyan;
+    color: wheat;
+    font-size:50pt ;
+    text-align: center;
+}
